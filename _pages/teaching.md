@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Co-Instructor with Dr. Alex Bolton, Presidential Power (POLS 494), Fall 2024 [Syllabus](/files/Kinnard_CV.pdf)
+Co-Instructor with Dr. Alex Bolton, Presidential Power (POLS 494), Fall 2024 [Syllabus](/files/pols494syllabus.pdf)
 
 Teaching Assistant for Dr. Matt Baker, Research Design and Methods (POLS 208), Spring 2024
 
