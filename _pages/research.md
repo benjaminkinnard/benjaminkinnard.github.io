@@ -18,5 +18,8 @@ Working Papers
 Works in Progress
 -----------------
 
-- "Why Comment? Participation in Notice-and-Comment Rulemaking by Members of Congress"
 - "(Non-)Political Oversight: Congress and Offices of Inspector General"
+- "Why Comment? Participation in Notice-and-Comment Rulemaking by Members of Congress"
+- "Municipal Incorporation and Political Participation" (with Jacob R. Brown and Michael Leo Owens)
+- "When Do Local Governments Opt Out of Georgia's Floating Homestead Exemption? Evidence from the 2024 Amendment 1" (with Pablo Montagnes, Allison Stashko, Zachary Peskowitz, and Kiela Crabtree)
+- "When are Empirical Studies of Legislative Oversight Prone to Oversight?" (with Jenny (Seoyeon) Kim and John W. Patty)
