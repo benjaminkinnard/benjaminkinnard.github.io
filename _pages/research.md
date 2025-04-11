@@ -13,12 +13,12 @@ Publications
 Working Papers
 --------------
 
+- ["(Non-)Partisan Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
 - ["Is Being on the House Rules Committee Still Valuable?"](/files/rulescommitteepaper.pdf)
 
 Works in Progress
 -----------------
 
-- "(Non-)Political Oversight: Congress and Offices of Inspector General"
 - "Why Comment? Participation in Notice-and-Comment Rulemaking by Members of Congress"
 - "Municipal Incorporation and Political Participation" (with Jacob R. Brown and Michael Leo Owens)
 - "When Do Local Governments Opt Out of Georgia's Floating Homestead Exemption? Evidence from the 2024 Amendment 1" (with Pablo Montagnes, Allison Stashko, Zachary Peskowitz, and Kiela Crabtree)
