@@ -15,6 +15,7 @@ Working Papers
 
 - ["(Non-)Partisan Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
 - ["Is Being on the House Rules Committee Still Valuable?"](/files/rulescommitteepaper.pdf)
+- ["When are Empirical Studies of Legislative Oversight Prone to Oversight?"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (revise and resubmit at *Legislative Studies Quarterly*
 
 Works in Progress
 -----------------
@@ -22,4 +23,3 @@ Works in Progress
 - "Why Comment? Participation in Notice-and-Comment Rulemaking by Members of Congress"
 - "Municipal Incorporation and Political Participation" (with Jacob R. Brown and Michael Leo Owens)
 - "When Do Local Governments Opt Out of Georgia's Floating Homestead Exemption? Evidence from the 2024 Amendment 1" (with Pablo Montagnes, Allison Stashko, Zachary Peskowitz, and Kiela Crabtree)
-- "When are Empirical Studies of Legislative Oversight Prone to Oversight?" (with Jenny (Seoyeon) Kim and John W. Patty)
