@@ -15,7 +15,7 @@ Working Papers
 
 - ["(Non-)Partisan Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
 - ["Is Being on the House Rules Committee Still Valuable?"](/files/rulescommitteepaper.pdf)
-- ["When are Empirical Studies of Legislative Oversight Prone to Oversight?"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (revise and resubmit at *Legislative Studies Quarterly*
+- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (revise and resubmit at *Legislative Studies Quarterly*)
 
 Works in Progress
 -----------------
