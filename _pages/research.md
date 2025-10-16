@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ------------
 
-- ["Paved with Partisan Intentions: The Impressive and Disheartening Validity of Cox and McCubbins's *Legislative Leviathan*"](/files/kinnardpatty2023.pdf) (with John W. Patty), *Journal of Political Institutions and Political Economy* 4(4): 523-549
+- ["Paved with Partisan Intentions: The Impressive and Disheartening Validity of Cox and McCubbins's *Legislative Leviathan*"](/files/kinnardpatty2023.pdf) (with John W. Patty), *Journal of Political Institutions and Political Economy* 4(4): 523-549 (Note: Editor-reviewed)
 
 Working Papers
 --------------
