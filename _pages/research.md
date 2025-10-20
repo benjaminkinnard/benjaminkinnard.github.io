@@ -13,7 +13,7 @@ Publications
 Working Papers
 --------------
 
-- ["(Non-)Partisan Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
+- ["(Non-)Ideological Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
 - ["Is Being on the House Rules Committee Still Valuable?"](/files/rulescommitteepaper.pdf)
 - ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (revise and resubmit at *Legislative Studies Quarterly*)
 
