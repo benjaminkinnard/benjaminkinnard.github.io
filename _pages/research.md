@@ -14,12 +14,12 @@ Working Papers
 --------------
 
 - ["(Non-)Ideological Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
-- ["Is Being on the House Rules Committee Still Valuable?"](/files/rulescommitteepaper.pdf)
-- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (revise and resubmit at *Legislative Studies Quarterly*)
+- ["Hiring and Buying Loyalty: How Party Leaders Control the House Committee on Rules"](/files/rulescommitteepaper.pdf)
+- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (conditionally accepted at *Legislative Studies Quarterly*)
 
 Works in Progress
 -----------------
 
-- "Why Comment? Participation in Notice-and-Comment Rulemaking by Members of Congress"
+- "Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"
 - "Municipal Incorporation and Political Participation" (with Jacob R. Brown and Michael Leo Owens)
-- "When Do Local Governments Opt Out of Georgia's Floating Homestead Exemption? Evidence from the 2024 Amendment 1" (with Pablo Montagnes, Allison Stashko, Zachary Peskowitz, and Kiela Crabtree)
+- "Organizational Structure, Capacity, and Access in Regulatory Lobbying" (with Alex Bolton)
