@@ -15,7 +15,7 @@ Working Papers
 
 - ["(Non-)Ideological Oversight of the Executive Branch: Evidence from Congress and Offices of Inspector General"](/files/oigpaper.pdf)
 - ["Hiring and Buying Loyalty: How Party Leaders Control the House Committee on Rules"](/files/rulescommitteepaper.pdf)
-- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (conditionally accepted at *Legislative Studies Quarterly*)
+- "Controlling for Oversight in Studies of Oversight" (with Jenny (Seoyeon) Kim and John W. Patty) (conditionally accepted at *Legislative Studies Quarterly*)
 
 Works in Progress
 -----------------
