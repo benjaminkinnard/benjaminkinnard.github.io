@@ -6,10 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Postdoctoral Scholar of American Politics at the University of Chicago. I received my Ph.D. in Political Science from Emory University in July 2026. I examine information provision, responsiveness, and separation of powers in American political institutions, including Congress, the executive branch, the bureaucracy, and local governments.
+Hello! I am a Postdoctoral Scholar of American Politics at the University of Chicago. I received my Ph.D. in Political Science from Emory University in July 2026. I research American political institutions, with a primary focus on the separation of powers between Congress, the President, and the federal bureaucracy, and a secondary focus on local governments.
 
-I am on the 2026-2027 academic job market.
+**I am on the 2026-2027 academic job market.**
 
-My primary focus is congressional oversight of the executive branch, examining the political and non-political factors that motivate congressional oversight and the responsiveness of federal agencies to said oversight. I am also interested in the internal organization of Congress and its implications for the efficacy and policy outcomes of Congress, participation and coalition formation among elected officials and interest groups in regulatory policymaking, as well as the intersection of local government institutions and voter behavior. Some cross-cutting themes in my research include exploring the theoretical distinctions between information gathering and information sharing in oversight and how capacity and informational constraints affect the ability of Congress and the President to exert political control over the bureaucracy.
+My research agenda has two primary focuses. First, I examine the political and non-political factors that motivate congressional oversight and the responsiveness of federal agencies to said oversight, showcasing the limits of congressional control of the bureaucracy. Second, I examine participation and coalition formation in the regulatory process by Congress, the President, and interest groups, showcasing how politicians cooperate with interest groups to achieve their policy outcomes. My other work focuses on the internal organization of Congress and how local governments shape political behavior. My research has appeared in *Legislative Studies Quarterly* and the *Journal of Political Institutions and Political Economy*.
+
 
 I grew up in Pensacola, FL, and received my B.A. in Political Science in 2020 from the University of West Florida.
