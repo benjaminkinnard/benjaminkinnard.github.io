@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ------------
-- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenny (Seoyeon) Kim and John W. Patty) (forthcoming at *Legislative Studies Quarterly*)
+- ["Controlling for Oversight in Studies of Oversight"](/files/lsqoversightpaper.pdf) (with Jenn (Seoyeon) Kim and John W. Patty), *Legislative Studies Quarterly* 51(3): e70081
 - ["Paved with Partisan Intentions: The Impressive and Disheartening Validity of Cox and McCubbins's *Legislative Leviathan*"](/files/kinnardpatty2023.pdf) (with John W. Patty), *Journal of Political Institutions and Political Economy* 4(4): 523-549 (Note: Editor-reviewed)
 
 Working Papers
